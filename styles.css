@@ -1,6 +1,29 @@
+.main-header {
+    color: #AFEEEE;
+    border-style: double;
+    border-width: 15px;
+    border-color: #FFC0CB;
+    font-family: "Times New Roman", Times, serif;
+  background-color: #C0C0C0;
+}
+
+.leftover-header {
+  color: #C0C0C0;
+}
+
 h4 {
-  color: purple;
+    color: #AFEEEE;
+    background-color: #FFC0CB;
 }
+
+h4 
+{
+  border-style: double;
+  border-width: 15px;
+}
+
 p {
-  background-color: orange;
+  color: #C0C0C0;
+  font-family: sans-serif;
 }
+
