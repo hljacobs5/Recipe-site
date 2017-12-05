@@ -27,3 +27,23 @@ p {
   font-family: sans-serif;
 }
 
+table {
+    width: 100%;
+    text-align: center;
+    border-collapse: collapse;  
+  }
+
+  table, th, td {
+    border: double;
+    border-color: #FFC0CB;
+    border-width: 10px;
+  }
+
+th {
+    height: 50px;
+}
+table {
+  color: #AFEEEE;
+  background-color: #C0C0C0;
+}
+
