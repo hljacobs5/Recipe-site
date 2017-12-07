@@ -1,10 +1,11 @@
 .main-header {
-    color: #667292;
-    border-style: double;
-    border-width: 15px;
-    border-color: #bccad6;
+    color: #034f84;
+    border-style: groove;
+    border-width: 5px;
+    border-color: #f7786b;
     font-family: "Times New Roman", Times, serif;
-  background-color: #f1e3dd;
+    text-align: center;
+  background-color: #ffe0e0;
 }
 
 
@@ -12,8 +13,8 @@
 
 
 p {
-  color: #667292;
-  font-family: sans-serif;
+  color: #034f84;
+  font-family: "Times New Roman", Times, serif;
 }
 
 table {
@@ -23,16 +24,16 @@ table {
   }
 
   table, th, td {
-    border: double;
-    border-color: #bccad6;
-    border-width: 10px;
+    border: ridge;
+    border-color: #f7786b;
+    border-width: 5px;
   }
 
 th {
     height: 50px;
 }
 table {
-  color: #667292;
-  background-color: #f1e3dd;
+  color: #034f84;
+  background-color: #ffe0e0;
 }
 
