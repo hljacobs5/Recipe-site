@@ -37,3 +37,19 @@ table {
   background-color: #ffe0e0;
 }
 
+li {
+    display: inline;
+    background-color: #ffe0e0; 
+    
+    }
+  ul {
+    text-align: center;
+    color: white;
+  }
+form {
+  display: inline;
+}
+div .sub{
+  white-space: nowrap;
+}
+
