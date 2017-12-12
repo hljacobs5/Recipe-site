@@ -8,10 +8,6 @@
   background-color: #ffe0e0;
 }
 
-
-
-
-
 p {
   color: #034f84;
   font-family: "Times New Roman", Times, serif;
@@ -32,24 +28,80 @@ table {
 th {
     height: 50px;
 }
+
 table {
   color: #034f84;
   background-color: #ffe0e0;
+  margin-bottom: 20px;
+
 }
 
 li {
     display: inline;
     background-color: #ffe0e0; 
-    
-    }
-  ul {
-    text-align: center;
-    color: white;
-  }
+}
+
+ul {
+  text-align: center;
+  color: white;
+}
+
 form {
   display: inline;
+  width:600px;
 }
-div .sub{
-  white-space: nowrap;
+
+.form-wrapper {
+  margin: 10px;
 }
+
+button {
+  display: inline;
+  border: 1px solid black;
+}
+
+select {
+  border: 0;
+  outline: 1px solid #CCC;
+  background-color: white;
+  height: 30px;
+}
+
+label {
+  font-size:12px;
+}
+
+img {
+width: 200px;
+height: 150px;
+}
+ 
+.images {
+  display: block;
+  margin: auto;
+  width: 630px;
+}
+
+.category {
+width: 33.33%;
+height: 400px;
+display: inline;
+margin-right:5px;
+
+}
+
+.category2 {
+width: 33.33%;
+height: 400px;
+display: inline;
+margin-right:5px;
+}
+
+.category3 {
+width: 33.33%;
+height: 400px;
+display: inline;
+margin-right:5px;
+}
+
 
